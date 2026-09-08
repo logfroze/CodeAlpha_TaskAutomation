@@ -1,7 +1,7 @@
 export const PYTHON_SCRIPT_CODE = `#!/usr/bin/env python3
 """
-CodeAlpha Task Automation: JPG Image File Organizer
-Internship Task 3: Task Automation with Python Scripts
+CodeAlpha - Python - Task 03: Task Automation (JPG Image File Organizer)
+Internship Task 03: Task Automation with Python Scripts
 
 Description:
     Automates the process of moving all .jpg image files from a specified
