@@ -1,0 +1,6 @@
+{
+  "name": "CodeAlpha Task Automation",
+  "description": "Automated Python file organizer that moves .jpg images between directories using standard library modules os and shutil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
