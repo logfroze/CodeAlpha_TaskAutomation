@@ -29,9 +29,14 @@ export default function App() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 py-4">
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
             <div>
-              <h1 className="text-base font-bold text-slate-900 tracking-tight">
-                JPG File Organizer
-              </h1>
+              <div className="flex items-center gap-2.5 flex-wrap">
+                <h1 className="text-base font-bold text-slate-900 tracking-tight">
+                  JPG File Organizer
+                </h1>
+                <span className="inline-flex items-center px-2 py-0.5 text-xs font-semibold rounded-md bg-slate-900 text-white shadow-xs">
+                  CodeAlpha - Python - Task 03
+                </span>
+              </div>
               <p className="text-xs text-slate-500 mt-0.5">
                 Python automation utility to move .jpg files between directories using standard library modules (<code className="font-mono text-slate-700">os</code>, <code className="font-mono text-slate-700">shutil</code>).
               </p>
